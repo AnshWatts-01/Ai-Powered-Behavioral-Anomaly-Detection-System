@@ -59,8 +59,9 @@ streamlit run app.py
 python generate_data.py
 python train_model.py
 streamlit run app.py
-## 🛠️ Technology Stack
 
+## 🛠️ Technology Stack
+---
 | Component | Technology |
 | :--- | :--- |
 | **Frontend/UI** | Streamlit, Custom CSS |
@@ -68,4 +69,4 @@ streamlit run app.py
 | **Machine Learning** | Scikit-Learn, XGBoost |
 | **Explainable AI** | SHAP (SHapley Additive exPlanations) |
 | **Data Visualization** | Plotly Express | 
-
+---
