@@ -58,13 +58,14 @@ streamlit run app.py
 # Run this full sequence to regenerate synthetic logs, retrain the AI model, and launch the app:
 python generate_data.py
 python train_model.py
-streamlit run app.py 
----
-# | Component | Technology |
-# | :--- | :--- |
-# | **Frontend/UI** | Streamlit, Custom CSS |
-# | **Data Processing** | Pandas, NumPy |
-# | **Machine Learning** | Scikit-Learn, XGBoost |
-# | **Explainable AI** | SHAP (SHapley Additive exPlanations) |
-# | **Data Visualization** | Plotly Express |
-----
+streamlit run app.py
+## 🛠️ Technology Stack
+
+| Component | Technology |
+| :--- | :--- |
+| **Frontend/UI** | Streamlit, Custom CSS |
+| **Data Processing** | Pandas, NumPy |
+| **Machine Learning** | Scikit-Learn, XGBoost |
+| **Explainable AI** | SHAP (SHapley Additive exPlanations) |
+| **Data Visualization** | Plotly Express | 
+
